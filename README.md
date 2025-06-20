@@ -43,7 +43,7 @@ To help governments, development agencies, and stakeholders make **data-informed
 ## 📷 Dashboard Preview:
 ![image alt](https://github.com/Smart-P4458/My-Projects/blob/da504277fece617a01bcb4c5680beb2d3ebc6194/My%20June%20Project%20Overview%20%20.jpg)
 ![image alt](https://github.com/Smart-P4458/My-Projects/blob/717b02cfce81079cb54b291d7e6b8d5d355ad05a/June%20Project%20Nigeria%20Page.jpg)
-![image alt](https://github.com/Smart-P4458/My-Projects/blob/da504277fece617a01bcb4c5680beb2d3ebc6194/My%20June%20Project%20Overview%20%20.jpg)
+![image alt](https://github.com/Smart-P4458/My-Projects/blob/5bcfa65ea150a244a23c95b26a630f610c7e44b2/June%20Project%20South%20Africa.jpg)
 ![image alt](https://github.com/Smart-P4458/My-Projects/blob/da504277fece617a01bcb4c5680beb2d3ebc6194/My%20June%20Project%20Overview%20%20.jpg)
 
 ---
