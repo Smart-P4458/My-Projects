@@ -41,7 +41,7 @@ To help governments, development agencies, and stakeholders make **data-informed
 ---
 
 ## 📷 Dashboard Preview:
-![image alt](image_url)
+![image alt](https://github.com/Smart-P4458/My-Projects/blob/da504277fece617a01bcb4c5680beb2d3ebc6194/My%20June%20Project%20Overview%20%20.jpg)
 
 ---
 
