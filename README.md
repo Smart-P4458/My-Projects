@@ -35,8 +35,13 @@ To help governments, development agencies, and stakeholders make **data-informed
 
 ---
 
+## 🔗 Live Report:
+[Click here to view the live project](https://app.powerbi.com/links/Er8JeBzsro?ctid=71cf4385-6466-489d-a591-0aff690ce852&pbi_source=linkShare)
+
+---
+
 ## 📷 Dashboard Preview:
-*(Include a dashboa)*
+![image alt](image_url)
 
 ---
 
